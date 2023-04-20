@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\models",
+    "\\vendor",
+    "\\vendor\\yiisoft",
+    "\\vendor\\yiisoft\\yii2",
+    "\\vendor\\yiisoft\\yii2\\db",
+    "\\views",
+    "\\views\\interests",
+    "\\views\\site",
+    "\\web"
+  ],
+  "SelectedNode": "\\vendor\\yiisoft\\yii2\\db\\Query.php",
+  "PreviewInSolutionExplorer": false
+}
